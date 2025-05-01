@@ -1,0 +1,6 @@
+# Redirects from what the browser requests to what we serve
+/index               /
+/SQ_resto/menu    /https://www.SQ_resto/menu.netlify.app
+/news                /blog
+/menu              https://www.SQ_resto.netlify.app
+/authors/c%C3%A9line /authors/about-c%C3%A9line
